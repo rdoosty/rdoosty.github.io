@@ -60,18 +60,22 @@ sections:
           [Agora](/publications/ding2020agora/) (ACM CoNEXT'20),
           [ArgosV3](/publications/shepard2017argosv3/) (ACM MobiCom'17).
 
-        - **AI-driven resource allocation for wireless networks.** Real-time
-          ML for scheduling and link adaptation in massive MIMO:
+        - **AI-driven scheduling and RAN slicing.** Real-time ML and
+          slice-aware schedulers for massive MIMO:
+          [Helix](/publications/an2024helix/) (ACM CoNEXT'24),
           [Deep RL Resource Scheduler](/publications/an2023drl/) (IEEE TMLCN'23).
 
         - **ML-based massive MIMO detection.** Sampling-based detectors
           that approach ML accuracy at far lower complexity:
           [Annealed Langevin Detector](/publications/zilberstein2022langevin/) (IEEE TWC'22).
 
-        - **Open testbeds and wireless research methodology.** Reflections
-          on the new wave of open, programmable, large-scale wireless
-          experimentation:
-          [Good Times for Wireless Research](/publications/doost2020wintech/) (ACM WiNTECH'20).
+        - **Virtualized Open RAN systems.** Measurement and design for
+          5G O-RAN on commodity infrastructure:
+          [ETHOS](/publications/wu2025ethos/) (ACM WiNTECH'25).
+
+        - **Wireless physical-layer security.** PHY techniques that
+          protect legitimate transmissions against eavesdroppers:
+          [M3A](/publications/liu2023m3a/) (ACM MobiCom'23).
 
         I am always happy to discuss collaborations — feel free to reach out.
     design:
