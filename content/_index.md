@@ -51,25 +51,19 @@ sections:
         PAWR, 2018–2023) — an open-source software-defined massive MIMO
         platform deployed on the POWDER testbed.
 
-        ## Selected Research (since 2020)
+        ## Selected Publications
 
-        My recent work spans a few interrelated themes:
+        - **Many-antenna massive MIMO platforms and real-time baseband.**
+          From hardware architectures that scale to hundreds of coherent
+          radio chains, to software-only baseband processing on commodity
+          servers:
+          [Agora](/publications/ding2020agora/) (ACM CoNEXT'20),
+          [ArgosV3](/publications/shepard2017argosv3/) (ACM MobiCom'17).
 
-        - **AI-driven resource allocation for wireless networks.** Real-time
-          ML for scheduling, link adaptation, and beyond:
-          [Deep RL Resource Scheduler](/publications/an2023drl/) (TMLCN'23),
-          [Feedback-Free Adaptive MCS](/publications/an2023mcs/) (Asilomar'23).
-
-        - **ML-based massive MIMO detection.** Sampling-based detectors
-          that approach ML accuracy at far lower complexity:
-          [Annealed Langevin Detector](/publications/zilberstein2022langevin/) (TWC'22),
-          [Accelerated Underdamped Langevin Detector](/publications/zilberstein2023icassp/) (ICASSP'23).
-
-        - **Software-defined massive MIMO baseband and platforms.** Real-time
-          baseband processing on commodity CPUs and at-scale open testbeds:
-          [Agora](/publications/ding2020agora/) (CoNEXT'20),
-          [Scalable Massive MIMO](/publications/shepard2020openwireless/) (OpenWireless'20),
-          [Good Times for Wireless Research](/publications/doost2020wintech/) (WiNTECH'20).
+        - **Open testbeds and wireless research methodology.** Reflections
+          on the new wave of open, programmable, large-scale wireless
+          experimentation:
+          [Good Times for Wireless Research](/publications/doost2020wintech/) (ACM WiNTECH'20).
 
         I am always happy to discuss collaborations — feel free to reach out.
     design:
