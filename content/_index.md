@@ -37,14 +37,14 @@ sections:
 
         I am an Assistant Research Professor in the Department of
         Electrical and Computer Engineering at Rice University. My
-        research lies at the intersection of **wireless networking**,
-        **machine learning**, and **reconfigurable computing and
-        software-defined systems** — building intelligent, programmable
-        wireless infrastructure for next-generation networks (5G/6G and
-        Open RAN).
+        research builds **programmable, intelligent wireless
+        infrastructure for 5G/6G and Open RAN** — spanning
+        **software-defined massive MIMO baseband**, **scalable
+        many-antenna platforms**, **virtualized RAN systems**, and
+        **machine-learning-driven scheduling and detection**.
 
         I currently lead [**ETHOS**](https://ethos.rice.edu) — a
-        multi-dimensional approach to ML-enabled RAN software testing
+        multi-dimensional approach to ML-enabled RAN software design
         (NTIA Public Wireless Supply Chain Innovation Fund, 2024–2028).
         Previously, I led [**3DML**](https://3dml.rice.edu) (NSF CCRI,
         2020–2023) and co-led [**RENEW**](https://renew.rice.edu) (NSF

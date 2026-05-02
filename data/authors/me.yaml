@@ -14,11 +14,13 @@ status:
   icon: ""
 role: Assistant Research Professor
 bio: |
-  I specialize in developing intelligent wireless networks by merging
-  AI-driven resource allocation with reconfigurable computing. My work
-  centers on integrating real-time machine learning algorithms with
-  advanced wireless protocols to optimize performance in next-generation
-  networks, including 5G and beyond.
+  I work at the intersection of **massive MIMO**, **machine learning**,
+  and **software-defined wireless systems** — building programmable,
+  intelligent infrastructure for 5G/6G and Open RAN. My group's work
+  spans real-time massive MIMO baseband on commodity servers, many-antenna
+  hardware platforms, and learning-driven schedulers and detectors. I am
+  currently focused on virtualized Open RAN systems and ML-enabled RAN
+  software design.
 
 affiliations:
   - name: Rice University
