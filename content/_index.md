@@ -24,7 +24,7 @@ sections:
         gradient_mesh:
           enable: true
       name:
-        size: sm
+        size: xs
       avatar:
         size: medium
         shape: circle
