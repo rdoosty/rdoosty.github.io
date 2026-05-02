@@ -60,6 +60,14 @@ sections:
           [Agora](/publications/ding2020agora/) (ACM CoNEXT'20),
           [ArgosV3](/publications/shepard2017argosv3/) (ACM MobiCom'17).
 
+        - **AI-driven resource allocation for wireless networks.** Real-time
+          ML for scheduling and link adaptation in massive MIMO:
+          [Deep RL Resource Scheduler](/publications/an2023drl/) (IEEE TMLCN'23).
+
+        - **ML-based massive MIMO detection.** Sampling-based detectors
+          that approach ML accuracy at far lower complexity:
+          [Annealed Langevin Detector](/publications/zilberstein2022langevin/) (IEEE TWC'22).
+
         - **Open testbeds and wireless research methodology.** Reflections
           on the new wave of open, programmable, large-scale wireless
           experimentation:
