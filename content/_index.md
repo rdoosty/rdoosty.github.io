@@ -30,40 +30,54 @@ sections:
         shape: circle
   - block: markdown
     content:
-      title: '📚 Research'
+      title: ''
       subtitle: ''
       text: |-
-        My research lies at the intersection of **wireless networking**,
+        ## About
+
+        I am an Assistant Research Professor in the Department of
+        Electrical and Computer Engineering at Rice University. My
+        research lies at the intersection of **wireless networking**,
         **machine learning**, and **reconfigurable computing and
-        software-defined systems**. I am interested in building intelligent,
-        programmable wireless infrastructure for next-generation networks
-        (5G/6G and Open RAN), with a focus on AI-driven resource
-        allocation, RAN virtualization, and large-scale MIMO architectures.
+        software-defined systems** — building intelligent, programmable
+        wireless infrastructure for next-generation networks (5G/6G and
+        Open RAN).
 
-        I currently lead [ETHOS](https://ethos.rice.edu) — a
-        multi-dimensional approach to ML-enabled RAN software testing,
-        funded by the NTIA Public Wireless Supply Chain Innovation Fund.
-        Previously, I led [3DML](https://3dml.rice.edu) (NSF CCRI) and
-        co-led [RENEW](https://renew.rice.edu) (NSF PAWR), an open-source
-        massive MIMO software-defined radio platform deployed on POWDER.
+        I currently lead [**ETHOS**](https://ethos.rice.edu) — a
+        multi-dimensional approach to ML-enabled RAN software testing
+        (NTIA Public Wireless Supply Chain Innovation Fund, 2024–2028).
+        Previously, I led [**3DML**](https://3dml.rice.edu) (NSF CCRI,
+        2020–2023) and co-led [**RENEW**](https://renew.rice.edu) (NSF
+        PAWR, 2018–2023) — an open-source software-defined massive MIMO
+        platform deployed on the POWDER testbed.
 
-        Please reach out if you are interested in collaborating.
+        ## Selected Research (since 2020)
+
+        My recent work spans a few interrelated themes:
+
+        - **AI-driven resource allocation for wireless networks.** Real-time
+          ML for scheduling, link adaptation, and beyond:
+          [Deep RL Resource Scheduler](/publications/an2023drl/) (TMLCN'23),
+          [Feedback-Free Adaptive MCS](/publications/an2023mcs/) (Asilomar'23).
+
+        - **ML-based massive MIMO detection.** Sampling-based detectors
+          that approach ML accuracy at far lower complexity:
+          [Annealed Langevin Detector](/publications/zilberstein2022langevin/) (TWC'22),
+          [Accelerated Underdamped Langevin Detector](/publications/zilberstein2023icassp/) (ICASSP'23).
+
+        - **Software-defined massive MIMO baseband and platforms.** Real-time
+          baseband processing on commodity CPUs and at-scale open testbeds:
+          [Agora](/publications/ding2020agora/) (CoNEXT'20),
+          [Scalable Massive MIMO](/publications/shepard2020openwireless/) (OpenWireless'20),
+          [Good Times for Wireless Research](/publications/doost2020wintech/) (WiNTECH'20).
+
+        I am always happy to discuss collaborations — feel free to reach out.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: All Publications
       text: ''
       filters:
         folders:

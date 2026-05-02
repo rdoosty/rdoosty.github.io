@@ -30,7 +30,7 @@ tags:
   - Software-Defined Radio
   - 5G
 
-featured: true
+featured: false
 
 hugoblox:
   ids: {}

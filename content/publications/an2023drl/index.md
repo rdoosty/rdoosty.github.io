@@ -33,7 +33,7 @@ tags:
   - Resource Allocation
   - Wireless Networks
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
