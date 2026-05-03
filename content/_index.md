@@ -38,8 +38,9 @@ sections:
         I am an Assistant Research Professor in the Department of
         Electrical and Computer Engineering at Rice University. My
         research builds **programmable, intelligent wireless
-        infrastructure for 5G/6G and Open RAN** — spanning
-        **software-defined massive MIMO baseband**, **scalable
+        infrastructure for 5G/6G and Open RAN** — with a focus on
+        **algorithm and system design across FPGA, GPU, and CPU**. This
+        spans **software-defined massive MIMO baseband**, **scalable
         many-antenna platforms**, **virtualized RAN systems**, and
         **machine-learning-driven scheduling and detection**.
 
