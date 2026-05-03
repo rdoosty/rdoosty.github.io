@@ -82,11 +82,6 @@ sections:
           protect legitimate transmissions against eavesdroppers:
           [M3A](/publications/liu2023m3a/) (ACM MobiCom'23).
 
-        ## Academic Service
-
-        - **ACM MobiCom 2026** — Workshop Co-Chair
-        - **ACM MobiHoc 2025** — Local Chair
-
         I am always happy to discuss collaborations — feel free to reach out.
     design:
       columns: '1'
