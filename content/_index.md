@@ -103,7 +103,7 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: date-title-summary
   - block: collection
     id: news
     content:
@@ -123,7 +123,7 @@ sections:
       offset: 0
       order: desc
     design:
-      view: card
+      view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
 ---
