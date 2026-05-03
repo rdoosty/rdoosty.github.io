@@ -37,12 +37,13 @@ sections:
 
         I am an Assistant Research Professor in the Department of
         Electrical and Computer Engineering at Rice University. My
-        research builds **programmable, intelligent wireless
-        infrastructure for 5G/6G and Open RAN** — with a focus on
+        research is at the intersection of **computer systems** and
+        **wireless networking** — building programmable, intelligent
+        infrastructure for 5G/6G and Open RAN, with a focus on
         **algorithm and system design across FPGA, GPU, and CPU**. This
         spans **software-defined massive MIMO baseband**, **scalable
         many-antenna platforms**, **virtualized RAN systems**, and
-        **machine-learning-driven scheduling and detection**.
+        **machine-learning-driven scheduling**.
 
         I currently lead [**ETHOS**](https://ethos.rice.edu) — a
         multi-dimensional approach to ML-enabled RAN software design

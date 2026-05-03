@@ -14,14 +14,13 @@ status:
   icon: ""
 role: Assistant Research Professor
 bio: |
-  I work at the intersection of **massive MIMO**, **machine learning**,
-  and **software-defined wireless systems** — building programmable,
-  intelligent infrastructure for 5G/6G and Open RAN. A common thread
-  across my projects is **algorithm and system design across FPGA, GPU,
-  and CPU** — spanning real-time massive MIMO baseband on commodity
-  servers, many-antenna hardware platforms, and learning-driven
-  schedulers and detectors. I am currently focused on virtualized Open
-  RAN systems and ML-enabled RAN software design.
+  I work at the intersection of **computer systems** and **wireless
+  networking** — building programmable, intelligent infrastructure for
+  5G/6G and Open RAN. A common thread across my projects is **algorithm
+  and system design across FPGA, GPU, and CPU** — spanning real-time
+  massive MIMO baseband on commodity servers, many-antenna hardware
+  platforms, and learning-driven schedulers. I am currently focused on
+  virtualized Open RAN systems and ML-enabled RAN software design.
 
 affiliations:
   - name: Rice University
