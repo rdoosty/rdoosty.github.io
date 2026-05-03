@@ -45,11 +45,13 @@ sections:
 
         I currently lead [**ETHOS**](https://ethos.rice.edu) — a
         multi-dimensional approach to ML-enabled RAN software design
-        (NTIA Public Wireless Supply Chain Innovation Fund, 2024–2028).
-        Previously, I led [**3DML**](https://3dml.rice.edu) (NSF CCRI,
-        2020–2023) and co-led [**RENEW**](https://renew.rice.edu) (NSF
-        PAWR, 2018–2023) — an open-source software-defined massive MIMO
-        platform deployed on the POWDER testbed.
+        (NTIA Public Wireless Supply Chain Innovation Fund, 2024–2028) —
+        and co-lead [**Houdini**](https://houdini-sdr.org), an
+        open-access multi-band software-defined radio platform (NSF
+        CNS-2346550). Previously, I led [**3DML**](https://3dml.rice.edu)
+        (NSF CCRI, 2020–2023) and co-led [**RENEW**](https://renew.rice.edu)
+        (NSF PAWR, 2018–2023) — an open-source software-defined massive
+        MIMO platform deployed on the POWDER testbed.
 
         ## Selected Publications
 
