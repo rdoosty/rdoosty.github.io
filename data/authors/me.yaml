@@ -59,10 +59,11 @@ experience:
     org: Rice University, Department of Electrical and Computer Engineering
     start: ''
     summary: |
-      Leads research at the intersection of wireless networking, machine
-      learning, and reconfigurable computing. Principal investigator on
-      ETHOS (NTIA, 2024–2028); previously led 3DML (NSF CCRI, 2020–2023)
-      and co-led RENEW (NSF PAWR, 2018–2023).
+      Leads research on programmable wireless infrastructure for 5G/6G
+      and Open RAN, with a focus on algorithm and system design across
+      FPGA, GPU, and CPU. PI on ETHOS (NTIA, 2024–2028); Co-PI on
+      Houdini (NSF, CNS-2346550) and 3DML (NSF CCRI, 2020–2026).
+      Previously co-led RENEW (NSF PAWR, 2018–2023).
 
 skills: []
 languages: []

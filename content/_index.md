@@ -49,8 +49,9 @@ sections:
         (NTIA Public Wireless Supply Chain Innovation Fund, 2024–2028) —
         and co-lead [**Houdini**](https://houdini-sdr.org), an
         open-access multi-band software-defined radio platform (NSF
-        CNS-2346550). Previously, I led [**3DML**](https://3dml.rice.edu)
-        (NSF CCRI, 2020–2023) and co-led [**RENEW**](https://renew.rice.edu)
+        CNS-2346550), and [**3DML**](https://3dml.rice.edu), a
+        community platform for ML-driven wireless research (NSF CCRI,
+        2020–2026). Previously, I co-led [**RENEW**](https://renew.rice.edu)
         (NSF PAWR, 2018–2023) — an open-source software-defined massive
         MIMO platform deployed on the POWDER testbed.
 
