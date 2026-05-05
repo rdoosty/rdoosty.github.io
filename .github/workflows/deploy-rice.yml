@@ -1,0 +1,71 @@
+name: Deploy to Rice (doost.rice.edu)
+
+on:
+  push:
+    branches: ['main']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-rice
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.repository_owner != 'HugoBlox'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HUGO_VERSION: '0.154.5'
+      RICE_HOST: organization.rice.edu
+      RICE_USER: ard4
+      RICE_PATH: Public/www/
+      SITE_URL: https://doost.rice.edu/
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Install dependencies
+        run: pnpm install --no-frozen-lockfile
+
+      - name: Build site with Rice baseURL
+        env:
+          HUGO_ENVIRONMENT: production
+        run: hugo --minify -b ${{ env.SITE_URL }}
+
+      - name: Generate Pagefind index
+        run: pnpm run pagefind
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          printf '%s\n' "${{ secrets.RICE_SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          printf '%s\n' "${{ secrets.RICE_SSH_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          rsync -avz --delete \
+            -e "ssh -i ~/.ssh/id_ed25519" \
+            public/ \
+            ${{ env.RICE_USER }}@${{ env.RICE_HOST }}:${{ env.RICE_PATH }}
