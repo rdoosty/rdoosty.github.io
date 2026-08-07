@@ -82,6 +82,19 @@ sections:
           protect legitimate transmissions against eavesdroppers:
           [M3A](/publications/liu2023m3a/) (ACM MobiCom'23).
 
+        ## Group
+
+        **Postdoctoral Researchers**
+        - [Milin Zhang](https://scholar.google.com/citations?user=P-zS4FwAAAAJ)
+        - Zongshen Wu (co-advised with Ashutosh Sabharwal)
+
+        **Graduate Students**
+        - Sergio Lavao (PhD)
+
+        **Alumni**
+        - Qing An — PhD'25, MS'23 → Apple
+        - Mehdi Zafari — MS'24 → UC Irvine
+
         I am always happy to discuss collaborations — feel free to reach out.
     design:
       columns: '1'
