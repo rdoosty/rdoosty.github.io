@@ -86,7 +86,7 @@ sections:
 
         **Postdoctoral Researchers**
         - [Milin Zhang](https://scholar.google.com/citations?user=P-zS4FwAAAAJ)
-        - Zongshen Wu (co-advised with Ashutosh Sabharwal)
+        - Zongshen Wu
 
         **Graduate Students**
         - Sergio Lavao (PhD)
