@@ -7,12 +7,12 @@ name:
   family: Doost-Mohammady
   alternate: ''
   pronunciation: ''
-  pronouns: he/him
+  pronouns: ''
 postnominals:
   - PhD
 status:
   icon: ""
-role: Assistant Research Professor
+role: Associate Research Professor
 bio: |
   I work at the intersection of **computer systems** and **wireless
   networking** — building programmable, intelligent infrastructure for
@@ -54,7 +54,7 @@ interests:
 education: []
 
 experience:
-  - role: Assistant Research Professor
+  - role: Associate Research Professor
     org: Rice University, Department of Electrical and Computer Engineering
     start: ''
     summary: |

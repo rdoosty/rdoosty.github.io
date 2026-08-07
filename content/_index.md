@@ -35,7 +35,7 @@ sections:
       text: |-
         ## About
 
-        I am an Assistant Research Professor in the Department of
+        I am an Associate Research Professor in the Department of
         Electrical and Computer Engineering at Rice University. My
         research is at the intersection of **computer systems** and
         **wireless networking** — building programmable, intelligent
