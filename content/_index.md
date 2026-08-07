@@ -86,7 +86,7 @@ sections:
 
         **Postdoctoral Researchers**
         - [Milin Zhang](https://scholar.google.com/citations?user=P-zS4FwAAAAJ)
-        - Zongshen Wu
+        - [Zongshen Wu](https://scholar.google.com/citations?user=Pp9nkEkAAAAJ)
 
         **Graduate Students**
         - Sergio Lavao (PhD)
