@@ -2,6 +2,11 @@
 title: Houdini
 summary: An open-access software-defined radio platform supporting multiple radio modules across CBRS, X-, Ku-, and V-band. Funded by NSF (CNS-2346550). Co-PI.
 date: 2024-01-01
+weight: 2
+
+image:
+  filename: project-houdini.png
+  caption: ''
 
 links:
   - type: site

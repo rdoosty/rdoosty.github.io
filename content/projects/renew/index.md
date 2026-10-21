@@ -2,6 +2,11 @@
 title: RENEW
 summary: Reconfigurable Eco-system for Next-generation End-to-end Wireless. An open-source software-defined massive MIMO platform deployed on NSF PAWR/POWDER (2018–2023).
 date: 2018-04-01
+weight: 5
+
+image:
+  filename: project-renew.jpg
+  caption: ''
 
 links:
   - type: site

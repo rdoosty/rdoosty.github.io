@@ -2,6 +2,11 @@
 title: 3DML
 summary: A platform for Data, Design and Deployed validation of Machine Learning for wireless networks and mobile applications. Funded by NSF CCRI (2020–2026). Co-PI.
 date: 2020-10-01
+weight: 4
+
+image:
+  filename: project-3dml.png
+  caption: ''
 
 links:
   - type: site

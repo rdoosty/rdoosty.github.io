@@ -2,6 +2,11 @@
 title: ETHOS
 summary: A multi-dimensional approach to ML-enabled RAN software testing. Funded by the NTIA Public Wireless Supply Chain Innovation Fund (2024–2028).
 date: 2024-01-01
+weight: 3
+
+image:
+  filename: project-ethos.png
+  caption: ''
 
 links:
   - type: site
